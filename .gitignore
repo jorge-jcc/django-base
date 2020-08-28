@@ -124,7 +124,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-venv
+venv/
 
 # Spyder project settings
 .spyderproject
@@ -225,7 +225,7 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-vscode
+.vscode/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
